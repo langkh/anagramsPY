@@ -1,7 +1,7 @@
 # Project 2
 # This program is a word game that is similar to anagrams.
 # Date Completed: 6/1/23
-import random
+import random 
 
 alphabet = 'aaabcdeeefggghijkklmnoooppprsssttttuuuwy'
 
